@@ -1,74 +1,77 @@
-# 👋 Md. Momtazur Rashid
+# 👋 Hi, I'm Md. Momtazur Rashid
 
-## Senior IT Support Specialist • Desktop Support • Network Support • Field Service Engineer
+### Senior IT Support Specialist | Desktop Support | Network Support | Field Service Engineer
 
-Delivering reliable enterprise IT support, infrastructure maintenance, and technical operations with **15+ years of hands-on experience** supporting enterprise environments, Windows systems, Linux servers, LAN/WAN networks, VoIP platforms, hardware troubleshooting, and customer-focused technical support.
+I am an IT Support professional with over **15 years of hands-on experience** delivering enterprise IT support, desktop support, network infrastructure, telecommunications, and field service operations.
 
-I enjoy solving complex technical problems, improving IT operations, supporting end users, and ensuring reliable business continuity through practical, hands-on IT solutions.
+My expertise includes Windows environments, Linux systems, LAN/WAN networking, VoIP platforms, hardware installation & troubleshooting, preventive maintenance, technical documentation, and customer-focused technical support.
+
+I am passionate about solving technical problems, improving operational efficiency, and supporting organizations with reliable IT infrastructure.
 
 ---
 
 # 🌐 Professional Portfolio
 
-### 🚀 Live Portfolio
+### 🔗 Live Portfolio
 
-**Website**
+https://portfolio.s-manha-mm.workers.dev
 
-🔗 https://portfolio.s-manha-mm.workers.dev/
+This portfolio showcases my professional experience, technical expertise, certifications, projects, and resume.
 
-My portfolio showcases:
+---
 
-- Professional Experience
-- Technical Skills
-- Certifications
-- Featured Projects
-- Downloadable Resume
-- Contact Information
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManhaNet&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhaNet&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ManhaNet&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
 # 💼 Professional Profiles
 
-### LinkedIn
+- 🔗 LinkedIn  
+  https://www.linkedin.com/in/momtazur-rashid-it-support
 
-🔗 https://www.linkedin.com/in/momtazur-rashid-it-support
+- 🌐 Portfolio Website  
+  https://portfolio.s-manha-mm.workers.dev
 
-### Portfolio Source Code
-
-🔗 https://github.com/ManhaNet/portfolio
-
----
-
-# ⭐ Professional Highlights
-
-- ✔ 15+ Years of IT Experience
-- ✔ Enterprise IT Support
-- ✔ Desktop Support
-- ✔ Windows & Linux Administration
-- ✔ Network Infrastructure Support
-- ✔ LAN/WAN Troubleshooting
-- ✔ VoIP Platforms
-- ✔ Hardware Diagnostics & Repair
-- ✔ Preventive Maintenance
-- ✔ Technical Operations
-- ✔ Field Service Support
-- ✔ Customer-Focused Technical Support
+- 💻 Portfolio Repository  
+  https://github.com/ManhaNet/portfolio
 
 ---
 
-# 💻 Technical Expertise
+# 🛠 Technical Expertise
 
 ## IT Support
 
 - Enterprise Desktop Support
 - End-user Technical Support
-- Remote & On-site Support
 - Incident Troubleshooting
 - Hardware Diagnostics
-- Preventive Maintenance
 - Printer & Peripheral Support
+- Preventive Maintenance
+- Technical Documentation
+- Remote Support
+- On-site Support
 
-## Operating Systems
+---
+
+## Systems
 
 - Windows 10 / 11
 - Windows Server
@@ -76,6 +79,8 @@ My portfolio showcases:
 - Microsoft Office
 - Active Directory (Basic)
 - System Installation & Configuration
+
+---
 
 ## Networking
 
@@ -88,6 +93,8 @@ My portfolio showcases:
 - Structured Cabling
 - Network Troubleshooting
 
+---
+
 ## Telecommunications
 
 - VoIP Systems
@@ -96,116 +103,119 @@ My portfolio showcases:
 - Billing Platforms
 - IP PBX
 
+---
+
 ## Field Service
 
 - Equipment Installation
 - Preventive Maintenance
-- Technical Documentation
+- Technical Support
 - Customer Site Support
 - Multi-location Support
 
 ---
 
-# 🛠 Core Technologies
+# 🚀 Core Technologies
 
-`Windows`
-`Linux`
-`Desktop Support`
-`Technical Support`
-`Networking`
-`LAN/WAN`
-`TCP/IP`
-`DNS`
-`DHCP`
-`VPN`
-`VoIP`
-`Hardware Repair`
-`Field Service`
-`Technical Troubleshooting`
-`Microsoft Office`
-`HTML`
-`CSS`
-`JavaScript`
-`Git`
-`GitHub`
-`Cloudflare Pages`
+<p>
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Desktop%20Support-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VoIP-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hardware%20Repair-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Field%20Service-2E7D32?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
 
 ---
 
 # 🏆 Certifications
 
-- 🎓 Diploma in Computer Engineering
-- 🚗 NSDA Driving Level-3
-- ⚡ NSDA Electrical Installation & Maintenance Level-2
-- 📱 NSDA Mobile Phone Servicing Level-1
+- NSDA Driving Level-3
+- NSDA Electrical Installation & Maintenance Level-2
+- NSDA Mobile Phone Servicing Level-1
+- Diploma in Computer Engineering
 
 ---
 
-# 🚀 Current Career Focus
+# 🌱 Currently Learning
 
-Currently seeking international opportunities in:
-
-- IT Support
-- Desktop Support
-- Technical Support
-- Network Support
-- Infrastructure Support
-- IT Operations
-- Field Service Engineer
-
-✔ Open to relocation
-
-✔ Open to international employment
-
-✔ Open to visa-sponsored opportunities where available
+- Windows Server Administration
+- Microsoft 365
+- Azure Fundamentals
+- Active Directory
+- Git & GitHub Best Practices
+- IT Infrastructure Management
 
 ---
 
-# 📂 Featured Project
+# 📌 Featured Project
 
 ## Professional IT Portfolio Website
 
-A responsive portfolio website developed to present my professional background, technical expertise, certifications, projects, and resume.
+A responsive portfolio website developed to present my professional experience, certifications, technical skills, resume, and projects.
 
-### Key Features
+### Features
 
 - Responsive Design
 - Recruiter-Friendly Layout
-- Professional Experience Timeline
+- Resume Download
 - Technical Skills
 - Certifications
-- Resume Download
 - Contact Information
+- Cloudflare Deployment
 - GitHub Version Control
-- Cloudflare Pages Deployment
 
-### 🌐 Live Website
+### Live Website
 
-https://portfolio.s-manha-mm.workers.dev/
+https://portfolio.s-manha-mm.workers.dev
 
-### 💻 Source Code
+### Repository
 
 https://github.com/ManhaNet/portfolio
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact Me
 
-| Contact | Information |
-|----------|-------------|
-| 📧 Email | **s.manha.mm@gmail.com** |
-| 🌍 Location | Bogura, Bangladesh |
-| 💼 LinkedIn | https://www.linkedin.com/in/momtazur-rashid-it-support |
-| 🌐 Portfolio | https://portfolio.s-manha-mm.workers.dev |
-| 💻 GitHub Portfolio | https://github.com/ManhaNet/portfolio |
+📧 Email
+
+s.manha.mm@gmail.com
+
+📍 Location
+
+Bogura, Bangladesh
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/momtazur-rashid-it-support
+
+🌐 Portfolio
+
+https://portfolio.s-manha-mm.workers.dev
 
 ---
 
-# 🤝 Professional Objective
+> "Technology is not just about fixing computers—it's about helping people work better through reliable IT solutions."
 
-I am passionate about delivering reliable IT support, maintaining stable infrastructure, solving technical challenges, and providing excellent customer service.
+---
 
-My goal is to contribute to organizations that value professionalism, continuous learning, operational excellence, and high-quality technical support.
-
-Thank you for visiting my GitHub profile!
-
+⭐ If you find my projects useful, feel free to connect or explore my repositories.
