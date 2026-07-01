@@ -1,36 +1,64 @@
-# 👋 Hi, I'm Md. Momtazur Rashid (Manik)
+# 👋 Md. Momtazur Rashid (Manik)
 
-### Senior IT Support Specialist | Desktop Support | Network Support | Field Service Engineer
+## Senior IT Support Specialist • Desktop Support • Network Support • Field Service Engineer
 
-I am an IT Support professional with over **15 years of hands-on experience** delivering enterprise IT support, desktop support, network infrastructure, field service operations, telecommunications, and technical troubleshooting.
+Delivering reliable enterprise IT support, infrastructure maintenance, and technical operations with **15+ years of hands-on experience** supporting enterprise environments, Windows systems, Linux servers, LAN/WAN networks, VoIP platforms, hardware troubleshooting, and customer-focused technical support.
 
-I enjoy solving technical problems, supporting end users, maintaining IT infrastructure, and improving operational reliability. My experience spans Windows environments, Linux systems, LAN/WAN networks, VoIP platforms, hardware repair, preventive maintenance, and customer-focused technical support.
-
----
-
-## 🌐 Professional Portfolio
-
-🔗 **Portfolio Website**
-
-https://portfolio.s-manha-mm.workers.dev/
-
-This portfolio showcases my professional experience, technical skills, certifications, and real-world IT projects.
+I enjoy solving complex technical problems, improving IT operations, supporting end users, and ensuring reliable business continuity through practical, hands-on IT solutions.
 
 ---
 
-## 💼 Professional Profiles
+# 🌐 Professional Portfolio
 
-- **LinkedIn**
-  https://www.linkedin.com/in/momtazur-rashid-it-support
+### 🚀 Live Portfolio
 
-- **Portfolio Source Code**
-  https://github.com/ManhaNet/portfolio
+**Website**
+
+🔗 https://portfolio.s-manha-mm.workers.dev/
+
+My portfolio showcases:
+
+- Professional Experience
+- Technical Skills
+- Certifications
+- Featured Projects
+- Downloadable Resume
+- Contact Information
+
+---
+
+# 💼 Professional Profiles
+
+### LinkedIn
+
+🔗 https://www.linkedin.com/in/momtazur-rashid-it-support
+
+### Portfolio Source Code
+
+🔗 https://github.com/ManhaNet/portfolio
+
+---
+
+# ⭐ Professional Highlights
+
+- ✔ 15+ Years of IT Experience
+- ✔ Enterprise IT Support
+- ✔ Desktop Support
+- ✔ Windows & Linux Administration
+- ✔ Network Infrastructure Support
+- ✔ LAN/WAN Troubleshooting
+- ✔ VoIP Platforms
+- ✔ Hardware Diagnostics & Repair
+- ✔ Preventive Maintenance
+- ✔ Technical Operations
+- ✔ Field Service Support
+- ✔ Customer-Focused Technical Support
 
 ---
 
 # 💻 Technical Expertise
 
-### IT Support
+## IT Support
 
 - Enterprise Desktop Support
 - End-user Technical Support
@@ -40,7 +68,7 @@ This portfolio showcases my professional experience, technical skills, certifica
 - Preventive Maintenance
 - Printer & Peripheral Support
 
-### Systems
+## Operating Systems
 
 - Windows 10 / 11
 - Windows Server
@@ -49,7 +77,7 @@ This portfolio showcases my professional experience, technical skills, certifica
 - Active Directory (Basic)
 - System Installation & Configuration
 
-### Networking
+## Networking
 
 - LAN / WAN
 - TCP/IP
@@ -60,7 +88,7 @@ This portfolio showcases my professional experience, technical skills, certifica
 - Structured Cabling
 - Network Troubleshooting
 
-### Telecommunications
+## Telecommunications
 
 - VoIP Systems
 - Softswitch Platforms
@@ -68,7 +96,7 @@ This portfolio showcases my professional experience, technical skills, certifica
 - Billing Platforms
 - IP PBX
 
-### Field Service
+## Field Service
 
 - Equipment Installation
 - Preventive Maintenance
@@ -80,94 +108,103 @@ This portfolio showcases my professional experience, technical skills, certifica
 
 # 🛠 Core Technologies
 
-Windows • Linux • Networking • Desktop Support • VoIP • Hardware Repair • Technical Support • Field Service • Infrastructure Support
+`Windows`
+`Linux`
+`Desktop Support`
+`Technical Support`
+`Networking`
+`LAN/WAN`
+`TCP/IP`
+`DNS`
+`DHCP`
+`VPN`
+`VoIP`
+`Hardware Repair`
+`Field Service`
+`Technical Troubleshooting`
+`Microsoft Office`
+`HTML`
+`CSS`
+`JavaScript`
+`Git`
+`GitHub`
+`Cloudflare Pages`
 
 ---
 
 # 🏆 Certifications
 
-- NSDA Driving Level-3
-- NSDA Electrical Installation & Maintenance Level-2
-- NSDA Mobile Phone Servicing Level-1
-- Diploma in Computer Engineering
+- 🎓 Diploma in Computer Engineering
+- 🚗 NSDA Driving Level-3
+- ⚡ NSDA Electrical Installation & Maintenance Level-2
+- 📱 NSDA Mobile Phone Servicing Level-1
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Career Focus
 
 Currently seeking international opportunities in:
 
 - IT Support
 - Desktop Support
 - Technical Support
-- Field Service Engineer
 - Network Support
-- IT Operations
 - Infrastructure Support
+- IT Operations
+- Field Service Engineer
 
-Open to relocation and visa-sponsored opportunities where available.
+✔ Open to relocation
+
+✔ Open to international employment
+
+✔ Open to visa-sponsored opportunities where available
 
 ---
 
-# 📈 Featured Project
+# 📂 Featured Project
 
 ## Professional IT Portfolio Website
 
 A responsive portfolio website developed to present my professional background, technical expertise, certifications, projects, and resume.
 
-### Features
+### Key Features
 
 - Responsive Design
-- Recruiter-friendly Layout
+- Recruiter-Friendly Layout
 - Professional Experience Timeline
 - Technical Skills
 - Certifications
 - Resume Download
 - Contact Information
-- Cloudflare Deployment
 - GitHub Version Control
+- Cloudflare Pages Deployment
 
-**Live Website**
+### 🌐 Live Website
 
 https://portfolio.s-manha-mm.workers.dev/
 
-**Repository**
+### 💻 Source Code
 
 https://github.com/ManhaNet/portfolio
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Let's Connect
 
-📧 Email
-
-**s.manha.mm@gmail.com**
-
-🌍 Location
-
-Bogura, Bangladesh
-
-🔗 LinkedIn
-
-https://www.linkedin.com/in/momtazur-rashid-it-support
-
-🌐 Portfolio
-
-https://portfolio.s-manha-mm.workers.dev/
+| Contact | Information |
+|----------|-------------|
+| 📧 Email | **s.manha.mm@gmail.com** |
+| 🌍 Location | Bogura, Bangladesh |
+| 💼 LinkedIn | https://www.linkedin.com/in/momtazur-rashid-it-support |
+| 🌐 Portfolio | https://portfolio.s-manha-mm.workers.dev |
+| 💻 GitHub Portfolio | https://github.com/ManhaNet/portfolio |
 
 ---
 
-> *Technology is not just about fixing computers—it's about helping people work better through reliable IT solutions.*
+# 🤝 Professional Objective
 
-Thank you for visiting my GitHub profile.
+I am passionate about delivering reliable IT support, maintaining stable infrastructure, solving technical challenges, and providing excellent customer service.
 
-🏆 Dynamic GitHub Stats
-🔥 Contribution Graph
-💻 Technology Icons (Windows, Linux, HTML, CSS, JavaScript, Git)
-📊 Visitor Counter
-🛠 Professional Skill Badges
-📈 GitHub Streak Stats
-🌍 Portfolio Preview Banner
-📄 Resume Download Button
-🎯 "Currently Learning" Section
-⭐ "Featured Projects" Cards
+My goal is to contribute to organizations that value professionalism, continuous learning, operational excellence, and high-quality technical support.
+
+Thank you for visiting my GitHub profile!
