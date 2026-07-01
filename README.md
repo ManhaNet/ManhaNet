@@ -1,4 +1,4 @@
-# 👋 Md. Momtazur Rashid (Manik)
+# 👋 Md. Momtazur Rashid
 
 ## Senior IT Support Specialist • Desktop Support • Network Support • Field Service Engineer
 
