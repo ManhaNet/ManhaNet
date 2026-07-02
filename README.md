@@ -262,4 +262,4 @@ Feel free to connect with me on LinkedIn or explore my portfolio.
 
 > **"Technology is not just about fixing computers — it's about helping people work better through reliable IT solutions."**
 
-⭐ Thank you for visiting my GitHub profile. If you find my portfolio or projects helpful, feel free to connect, follow my work, or reach out for professional opportunities.
+⭐ Thank you for visiting my GitHub profile. If you find my portfolio or projects helpful, feel free to connect, follow my work, or reach out for professional opportunities . 
