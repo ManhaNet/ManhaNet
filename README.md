@@ -4,9 +4,9 @@
 
 IT Support professional with **15+ years of hands-on experience** delivering enterprise IT support, desktop support, network infrastructure, telecommunications, and field service operations.
 
-I specialize in Windows environments, Linux systems, LAN/WAN infrastructure, VoIP platforms, hardware installation & troubleshooting, preventive maintenance, customer-focused technical support, and infrastructure operations.
+I specialize in Windows environments, Linux systems, LAN/WAN infrastructure, VoIP platforms, hardware installation and troubleshooting, preventive maintenance, customer-focused technical support, and infrastructure operations.
 
-I enjoy solving technical problems, improving operational efficiency, and helping organizations maintain reliable IT infrastructure.
+I enjoy solving technical problems, improving operational efficiency, and helping organizations maintain secure, reliable, and efficient IT infrastructure.
 
 ---
 
@@ -38,7 +38,7 @@ I enjoy solving technical problems, improving operational efficiency, and helpin
 
 📍 Bogura, Bangladesh
 
-🌎 Open to relocation and visa-sponsored opportunities worldwide.
+🌎 Open to global relocation and visa-sponsored employment opportunities.
 
 ---
 
@@ -174,7 +174,7 @@ Download my latest professional resume directly from my portfolio:
 
 ## Professional IT Portfolio Website
 
-A modern responsive portfolio website developed to present my professional background, technical expertise, certifications, projects, and resume.
+A modern responsive portfolio website designed and developed to present my professional background, technical expertise, certifications, projects, and resume.
 
 ### Highlights
 
@@ -203,7 +203,6 @@ A modern responsive portfolio website developed to present my professional backg
 - Microsoft 365
 - Azure Fundamentals
 - Active Directory
-- IT Infrastructure Management
 - GitHub Best Practices
 
 ---
