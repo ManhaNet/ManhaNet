@@ -54,9 +54,9 @@ A modern recruiter-friendly portfolio showcasing my professional experience, tec
 
 # 📄 Resume
 
-Download my latest professional resume directly from my portfolio:
+The latest ATS-optimized resume is available for download from my professional portfolio.
 
-**https://portfolio.s-manha-mm.workers.dev**
+
 
 ---
 
