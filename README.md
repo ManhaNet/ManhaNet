@@ -2,11 +2,11 @@
 
 ## Technical Operations Professional | IT Infrastructure | Industrial Maintenance | Field Service Engineering
 
-Technical Operations professional with **15+ years of hands-on experience** delivering IT infrastructure, industrial electrical systems, manufacturing support, technical operations, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
+Technical Operations professional with **15+ years of experience** delivering IT infrastructure, industrial electrical systems, manufacturing support, technical operations, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
 
 I specialize in IT infrastructure, industrial electrical systems, equipment installation, commissioning, preventive maintenance, technical troubleshooting, Windows and Linux environments, network infrastructure, VoIP platforms, and field service operations.
 
-I enjoy solving technical challenges, improving operational efficiency, increasing equipment reliability, and helping organizations maintain safe, reliable, and high-performing technical infrastructure.
+Passionate about solving technical challenges, improving operational efficiency, increasing equipment reliability, and supporting organizations with safe, reliable, and high-performing technical infrastructure.
 
 ---
 
@@ -14,7 +14,7 @@ I enjoy solving technical challenges, improving operational efficiency, increasi
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Open%20to-International%20Jobs-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Visa-Sponsorship-blue?style=for-the-badge"/>
 
@@ -22,25 +22,21 @@ I enjoy solving technical challenges, improving operational efficiency, increasi
 
 </p>
 
-✔ Technical Operations
+### Open to opportunities in
 
-✔ IT Infrastructure
+- Technical Operations
+- IT Infrastructure
+- Industrial Maintenance
+- Electrical Maintenance
+- Field Service Engineering
+- Technical Support
+- Manufacturing Operations
+- Commissioning
+- Infrastructure Engineering
 
-✔ Industrial Maintenance
+📍 Bangladesh
 
-✔ Electrical Maintenance
-
-✔ Field Service Engineering
-
-✔ Commissioning
-
-✔ Technical Support
-
-✔ Manufacturing Operations
-
-📍 Bogura, Bangladesh
-
-🌎 Open to global relocation and visa-sponsored employment opportunities.
+🌎 Open to relocation worldwide and visa-sponsored employment opportunities.
 
 ---
 
@@ -50,47 +46,17 @@ I enjoy solving technical challenges, improving operational efficiency, increasi
 
 **https://portfolio.s-manha-mm.workers.dev**
 
-A modern recruiter-friendly portfolio showcasing my professional experience, technical expertise, certifications, projects, and resume.
+Recruiter-friendly portfolio showcasing professional experience, technical expertise, certifications, projects, and ATS-optimized resumes.
 
 ---
 
-# 📄 Resume
+# 📄 Professional Resume
 
-The latest ATS-optimized resume is available for download from my professional portfolio.
-
-
+The latest ATS-optimized resumes are available through my professional portfolio.
 
 ---
 
-# 📊 GitHub Statistics
-
-> *(Temporarily disabled due to GitHub Readme Stats service outage. Will be re-enabled when the service becomes available.)*
-
-<!--
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManhaNet&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhaNet&layout=compact&theme=transparent"/>
-
-</p>
-
--->
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ManhaNet&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💼 Technical Skills
+# 💼 Core Competencies
 
 ## Technical Operations
 
@@ -98,21 +64,34 @@ The latest ATS-optimized resume is available for download from my professional p
 - Engineering Operations
 - Infrastructure Management
 - Manufacturing Support
-- Vendor Coordination
+- Technical Project Coordination
+- Vendor Management
 - Procurement
-- Technical Documentation
-- Project Coordination
+- Inventory Management
 - Team Leadership
+
+---
+
+## Electrical & Industrial Maintenance
+
+- Electrical Installation
+- Industrial Electrical Systems
+- Preventive Maintenance
+- Equipment Installation
+- Equipment Commissioning
+- Equipment Troubleshooting
+- Production Machinery
+- Industrial Maintenance
+- Power Distribution
+- UPS & Backup Power Systems
+
+---
 
 ## IT Infrastructure
 
 - Windows 10 / 11
 - Windows Server
-- Linux (CentOS, Puppy Linux)
-- Enterprise Desktop Support
-- Hardware Installation & Troubleshooting
-- Printer & Peripheral Support
-- Remote & On-site Support
+- Linux (CentOS)
 - LAN / WAN
 - TCP/IP
 - DNS
@@ -122,45 +101,31 @@ The latest ATS-optimized resume is available for download from my professional p
 - Structured Cabling
 - Network Troubleshooting
 
-## Electrical & Industrial Systems
-
-- Industrial Electrical Systems
-- Electrical Installation
-- Equipment Installation
-- Equipment Commissioning
-- Industrial Maintenance
-- Preventive Maintenance
-- Equipment Troubleshooting
-- Power Distribution Systems
-- UPS & Backup Power Systems
-- Control Panels
-- Distribution Boards (DB)
+---
 
 ## Telecommunications
 
-- VoIP Systems
-- IP PBX
-- Softswitch Platforms
-- SIP
-- IAX
-- GSM Gateways
+- VoIP Platforms
 - Asterisk
 - FreePBX
-- Network Infrastructure
+- SIP
+- GSM Gateways
+- Telecommunications Infrastructure
+
+---
 
 ## Field Service Engineering
 
-- Field Service Engineering
-- Customer Site Support
-- Multi-location Support
-- Equipment Inspection
+- Equipment Installation
+- Equipment Commissioning
 - Preventive Maintenance
-- Technical Support
-- Infrastructure Deployment
-- Service Reporting
+- Technical Troubleshooting
+- Customer Site Support
+- Technical Documentation
+
 ---
 
-# 💻 Core Technologies
+# 💻 Technologies
 
 <p>
 
@@ -168,9 +133,11 @@ The latest ATS-optimized resume is available for download from my professional p
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industrial%20Maintenance-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Desktop%20Support-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/VoIP-009688?style=for-the-badge"/>
 
@@ -186,35 +153,35 @@ The latest ATS-optimized resume is available for download from my professional p
 
 # 🏆 Certifications
 
-- NSDA Driving Level-3
-- NSDA Electrical Installation & Maintenance Level-2
-- NSDA Mobile Phone Servicing Level-1
+- Electrical Installation & Maintenance (Level-2) — NSDA
+- Driving (Level-3) — NSDA
+- Mobile Phone Servicing (Level-1) — NSDA
 - Diploma in Computer Engineering
 
 ---
 
 # 🚀 Featured Project
 
-## Professional IT Portfolio Website
+## Professional Technical Portfolio
 
-A modern responsive portfolio website designed and developed to present my professional background, technical expertise, certifications, projects, and resume.
+Designed and developed a modern recruiter-focused portfolio that presents my professional experience, technical expertise, certifications, projects, and ATS-optimized resumes.
 
 ### Highlights
 
 - Responsive Design
 - Recruiter-Friendly Layout
-- Resume Download
+- ATS-Optimized Resume Downloads
 - Technical Skills
 - Certifications
-- Contact Information
-- Cloudflare Pages Deployment
-- GitHub Version Control
+- Professional Experience
+- Cloudflare Deployment
+- Git Version Control
 
 ### 🌐 Live Website
 
 **https://portfolio.s-manha-mm.workers.dev**
 
-### 💻 Source Code
+### 💻 Repository
 
 **https://github.com/ManhaNet/portfolio**
 
@@ -222,10 +189,11 @@ A modern responsive portfolio website designed and developed to present my profe
 
 # 📚 Currently Learning
 
+- Microsoft Azure Fundamentals
 - Windows Server Administration
 - Microsoft 365
-- Azure Fundamentals
 - Active Directory
+- Industrial Automation Fundamentals
 - GitHub Best Practices
 
 ---
@@ -240,49 +208,48 @@ https://www.linkedin.com/in/momtazur-rashid-it-support
 
 https://portfolio.s-manha-mm.workers.dev
 
-### GitHub Portfolio Repository
+### GitHub Portfolio
 
 https://github.com/ManhaNet/portfolio
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact
 
 📧 Email
 
 **s.manha.mm@gmail.com**
 
-💼 LinkedIn
-
-**https://www.linkedin.com/in/momtazur-rashid-it-support**
-
 🌐 Portfolio
 
 **https://portfolio.s-manha-mm.workers.dev**
 
-📍 Location
+💼 LinkedIn
 
-Bogura, Bangladesh
+**https://www.linkedin.com/in/momtazur-rashid-it-support**
+
+📍 Bangladesh
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Let's Connect
 
-I am always interested in connecting with recruiters, hiring managers, IT professionals, and organizations looking for experienced professionals in:
+I'm always interested in connecting with recruiters, hiring managers, engineering teams, and organizations looking for professionals in:
 
-- IT Support
-- Desktop Support
-- Technical Support
-- Network Support
+- Technical Operations
+- IT Infrastructure
+- Industrial Maintenance
+- Electrical Maintenance
+- Manufacturing Operations
 - Field Service Engineering
-- Infrastructure Support
-- International IT Opportunities
+- Technical Support
+- Commissioning
+- Engineering Projects
 
-Feel free to connect with me on LinkedIn or explore my portfolio.
+Feel free to connect through LinkedIn or visit my portfolio.
 
 ---
 
-> **"Technology is not just about fixing computers — it's about helping people work better through reliable IT solutions."**
+> **"Great technical operations combine reliable infrastructure, efficient processes, and practical engineering to keep businesses moving."**
 
-⭐ Thank you for visiting my GitHub profile. If you find my portfolio or projects helpful, feel free to connect, follow my work, or reach out for professional opportunities . 
-Portfolio updated 2026.
+⭐ Thanks for visiting my GitHub profile. If my work aligns with your hiring needs or technical interests, feel free to connect or reach out.
