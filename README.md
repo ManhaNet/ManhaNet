@@ -2,11 +2,11 @@
 
 ## Technical Operations Professional | IT Infrastructure | Industrial Maintenance | Field Service Engineering
 
-Technical Operations professional with **15+ years of experience** delivering IT infrastructure, industrial electrical systems, manufacturing support, technical operations, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
+Technical Operations professional with **15+ years of experience** delivering IT infrastructure, industrial electrical systems, manufacturing support, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
 
-I specialize in IT infrastructure, industrial electrical systems, equipment installation, commissioning, preventive maintenance, technical troubleshooting, Windows and Linux environments, network infrastructure, VoIP platforms, and field service operations.
+Experienced in IT infrastructure, industrial electrical systems, equipment installation, commissioning, preventive maintenance, technical troubleshooting, Windows and Linux environments, network infrastructure, VoIP platforms, and field service operations.
 
-Passionate about solving technical challenges, improving operational efficiency, increasing equipment reliability, and supporting organizations with safe, reliable, and high-performing technical infrastructure.
+Passionate about improving operational efficiency, increasing equipment reliability, and delivering safe, reliable, and high-performing technical solutions.
 
 ---
 
@@ -56,6 +56,28 @@ The latest ATS-optimized resumes are available through my professional portfolio
 
 ---
 
+# 📈 Areas of Expertise
+
+✔ Technical Operations
+
+✔ IT Infrastructure
+
+✔ Industrial Electrical Systems
+
+✔ Industrial Maintenance
+
+✔ Manufacturing Support
+
+✔ Equipment Installation & Commissioning
+
+✔ Field Service Engineering
+
+✔ Technical Support
+
+✔ Telecommunications Infrastructure
+
+---
+
 # 💼 Core Competencies
 
 ## Technical Operations
@@ -64,7 +86,7 @@ The latest ATS-optimized resumes are available through my professional portfolio
 - Engineering Operations
 - Infrastructure Management
 - Manufacturing Support
-- Technical Project Coordination
+- Technical Project Management
 - Vendor Management
 - Procurement
 - Inventory Management
@@ -153,10 +175,11 @@ The latest ATS-optimized resumes are available through my professional portfolio
 
 # 🏆 Certifications
 
+- Diploma in Computer Engineering
 - Electrical Installation & Maintenance (Level-2) — NSDA
 - Driving (Level-3) — NSDA
 - Mobile Phone Servicing (Level-1) — NSDA
-- Diploma in Computer Engineering
+
 
 ---
 
@@ -164,18 +187,19 @@ The latest ATS-optimized resumes are available through my professional portfolio
 
 ## Professional Technical Portfolio
 
-Designed and developed a modern recruiter-focused portfolio that presents my professional experience, technical expertise, certifications, projects, and ATS-optimized resumes.
+A recruiter-focused professional portfolio showcasing my experience, technical expertise, certifications, projects, and ATS-optimized resumes.
 
 ### Highlights
 
 - Responsive Design
-- Recruiter-Friendly Layout
+- Recruiter-Friendly UI
 - ATS-Optimized Resume Downloads
 - Technical Skills
-- Certifications
 - Professional Experience
+- Certifications
 - Cloudflare Deployment
 - Git Version Control
+
 
 ### 🌐 Live Website
 
@@ -194,6 +218,8 @@ Designed and developed a modern recruiter-focused portfolio that presents my pro
 - Microsoft 365
 - Active Directory
 - Industrial Automation Fundamentals
+- PLC Fundamentals
+- SCADA Fundamentals
 - GitHub Best Practices
 
 ---
@@ -250,6 +276,6 @@ Feel free to connect through LinkedIn or visit my portfolio.
 
 ---
 
-> **"Great technical operations combine reliable infrastructure, efficient processes, and practical engineering to keep businesses moving."**
+> **"Reliable technology, efficient operations, and practical engineering drive sustainable business success."**
 
 ⭐ Thanks for visiting my GitHub profile. If my work aligns with your hiring needs or technical interests, feel free to connect or reach out.
