@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Md. Momtazur Rashid
 
-## Senior IT Support Specialist | Desktop Support | Network Support | Field Service Engineer
+## Technical Operations Professional | IT Infrastructure | Industrial Maintenance | Field Service Engineering
 
-IT Support professional with **15+ years of hands-on experience** delivering enterprise IT support, desktop support, network infrastructure, telecommunications, and field service operations.
+Technical Operations professional with **15+ years of hands-on experience** delivering IT infrastructure, industrial electrical systems, manufacturing support, technical operations, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
 
-I specialize in Windows environments, Linux systems, LAN/WAN infrastructure, VoIP platforms, hardware installation and troubleshooting, preventive maintenance, customer-focused technical support, and infrastructure operations.
+I specialize in IT infrastructure, industrial electrical systems, equipment installation, commissioning, preventive maintenance, technical troubleshooting, Windows and Linux environments, network infrastructure, VoIP platforms, and field service operations.
 
-I enjoy solving technical problems, improving operational efficiency, and helping organizations maintain secure, reliable, and efficient IT infrastructure.
+I enjoy solving technical challenges, improving operational efficiency, increasing equipment reliability, and helping organizations maintain safe, reliable, and high-performing technical infrastructure.
 
 ---
 
@@ -22,19 +22,21 @@ I enjoy solving technical problems, improving operational efficiency, and helpin
 
 </p>
 
-✔ IT Support
+✔ Technical Operations
 
-✔ Desktop Support
+✔ IT Infrastructure
+
+✔ Industrial Maintenance
+
+✔ Electrical Maintenance
+
+✔ Field Service Engineering
+
+✔ Commissioning
 
 ✔ Technical Support
 
-✔ Field Service Engineer
-
-✔ Network Support
-
-✔ Infrastructure Support
-
-✔ IT Operations
+✔ Manufacturing Operations
 
 📍 Bogura, Bangladesh
 
@@ -90,27 +92,27 @@ The latest ATS-optimized resume is available for download from my professional p
 
 # 💼 Technical Skills
 
-## Operating Systems
+## Technical Operations
+
+- Technical Operations
+- Engineering Operations
+- Infrastructure Management
+- Manufacturing Support
+- Vendor Coordination
+- Procurement
+- Technical Documentation
+- Project Coordination
+- Team Leadership
+
+## IT Infrastructure
 
 - Windows 10 / 11
 - Windows Server
 - Linux (CentOS, Puppy Linux)
-
-## IT Support
-
 - Enterprise Desktop Support
-- End-user Technical Support
-- Incident Troubleshooting
-- Hardware Installation
-- Hardware Repair
+- Hardware Installation & Troubleshooting
 - Printer & Peripheral Support
-- Preventive Maintenance
-- Technical Documentation
-- Remote Support
-- On-site Support
-
-## Networking
-
+- Remote & On-site Support
 - LAN / WAN
 - TCP/IP
 - DNS
@@ -120,21 +122,42 @@ The latest ATS-optimized resume is available for download from my professional p
 - Structured Cabling
 - Network Troubleshooting
 
+## Electrical & Industrial Systems
+
+- Industrial Electrical Systems
+- Electrical Installation
+- Equipment Installation
+- Equipment Commissioning
+- Industrial Maintenance
+- Preventive Maintenance
+- Equipment Troubleshooting
+- Power Distribution Systems
+- UPS & Backup Power Systems
+- Control Panels
+- Distribution Boards (DB)
+
 ## Telecommunications
 
 - VoIP Systems
-- Softswitch Platforms
-- SIP Troubleshooting
-- Billing Platforms
 - IP PBX
+- Softswitch Platforms
+- SIP
+- IAX
+- GSM Gateways
+- Asterisk
+- FreePBX
+- Network Infrastructure
 
-## Field Service
+## Field Service Engineering
 
-- Equipment Installation
-- Preventive Maintenance
+- Field Service Engineering
 - Customer Site Support
 - Multi-location Support
-
+- Equipment Inspection
+- Preventive Maintenance
+- Technical Support
+- Infrastructure Deployment
+- Service Reporting
 ---
 
 # 💻 Core Technologies
