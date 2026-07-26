@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Md. Momtazur Rashid
 
-## Technical Operations Professional | IT Infrastructure | Industrial Maintenance | Field Service Engineering
+## Technical Operations | IT Infrastructure | Industrial Maintenance | Field Service Engineering
 
-Technical Operations professional with **15+ years of experience** delivering IT infrastructure, industrial electrical systems, manufacturing support, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
+Technical Operations professional with **15+ years** of experience delivering IT infrastructure, industrial electrical systems, manufacturing support, field service engineering, telecommunications infrastructure, and enterprise technology solutions across manufacturing, telecommunications, agriculture, education, and multi-business environments.
 
 Experienced in IT infrastructure, industrial electrical systems, equipment installation, commissioning, preventive maintenance, technical troubleshooting, Windows and Linux environments, network infrastructure, VoIP platforms, and field service operations.
 
-Passionate about improving operational efficiency, increasing equipment reliability, and delivering safe, reliable, and high-performing technical solutions.
+Focused on improving operational efficiency, increasing equipment reliability, and delivering practical engineering and technology solutions that support business growth.
 
 ---
 
@@ -33,6 +33,8 @@ Passionate about improving operational efficiency, increasing equipment reliabil
 - Manufacturing Operations
 - Commissioning
 - Infrastructure Engineering
+- Engineering Operations
+- Maintenance Engineering
 
 📍 Bangladesh
 
@@ -70,6 +72,8 @@ The latest ATS-optimized resumes are available through my professional portfolio
 
 ✔ Equipment Installation & Commissioning
 
+✔ Engineering Operations
+
 ✔ Field Service Engineering
 
 ✔ Technical Support
@@ -91,6 +95,9 @@ The latest ATS-optimized resumes are available through my professional portfolio
 - Procurement
 - Inventory Management
 - Team Leadership
+- Commissioning
+- Field Operations
+- Operational Excellence
 
 ---
 
@@ -106,6 +113,9 @@ The latest ATS-optimized resumes are available through my professional portfolio
 - Industrial Maintenance
 - Power Distribution
 - UPS & Backup Power Systems
+- HV/LV Electrical Systems
+- Distribution Boards (DB)
+- Industrial Wiring
 
 ---
 
@@ -133,6 +143,7 @@ The latest ATS-optimized resumes are available through my professional portfolio
 - SIP
 - GSM Gateways
 - Telecommunications Infrastructure
+- Linux Server Administration
 
 ---
 
@@ -163,6 +174,10 @@ The latest ATS-optimized resumes are available through my professional portfolio
 
 <img src="https://img.shields.io/badge/VoIP-009688?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Manufacturing-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Technical%20Operations-1565C0?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Field%20Service-2E7D32?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -183,9 +198,39 @@ The latest ATS-optimized resumes are available through my professional portfolio
 
 ---
 
+# 🏆 Career Highlights
+
+- ✅ 15+ years of multidisciplinary technical experience across IT infrastructure, industrial maintenance, manufacturing, telecommunications, and field service engineering.
+
+- ✅ Directed the installation and commissioning of a 650 kVA substation, High Voltage (HV) electrical systems, Distribution Boards (DB), and Power Factor Improvement (PFI) systems.
+
+- ✅ Led the establishment and commissioning of four business divisions for TMT Group BD, supporting manufacturing, technical education, and engineering operations.
+
+- ✅ Established a large-scale manufacturing facility, overseeing infrastructure development, machinery installation, international procurement, and production readiness.
+
+- ✅ Delivered industrial maintenance, electrical infrastructure, technical operations, and field engineering projects across manufacturing, agriculture, telecommunications, education, and commercial sectors.
+
+- ✅ Built and managed enterprise IT infrastructure, Linux server environments, VoIP platforms, and resilient network systems supporting business-critical operations.
+
+---
+
+# 🌎 Industries Served
+
+Throughout my career, I have delivered technical solutions and operational support across multiple industries, including:
+
+- 🏭 Manufacturing
+- ⚙️ Industrial Engineering
+- 💻 Information Technology
+- 📡 Telecommunications
+- 🌾 Agriculture
+- 🎓 Technical Education
+- 🏢 Commercial Operations
+
+---
+
 # 🚀 Featured Project
 
-## Professional Technical Portfolio
+## Professional Portfolio Website
 
 A recruiter-focused professional portfolio showcasing my experience, technical expertise, certifications, projects, and ATS-optimized resumes.
 
@@ -221,22 +266,31 @@ A recruiter-focused professional portfolio showcasing my experience, technical e
 - PLC Fundamentals
 - SCADA Fundamentals
 - GitHub Best Practices
+- Microsoft Azure Administration
 
 ---
 
 # 🔗 Professional Profiles
 
-### LinkedIn
+<p align="left">
 
-https://www.linkedin.com/in/momtazur-rashid-it-support
+<a href="https://www.linkedin.com/in/momtazur-rashid-it-support">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Portfolio
+<a href="https://portfolio.s-manha-mm.workers.dev">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-https://portfolio.s-manha-mm.workers.dev
+<a href="https://github.com/ManhaNet">
+<img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### GitHub Portfolio
+<a href="https://github.com/ManhaNet/portfolio">
+<img src="https://img.shields.io/badge/Portfolio_Source_Code-000000?style=for-the-badge&logo=github"/>
+</a>
 
-https://github.com/ManhaNet/portfolio
+</p>
 
 ---
 
@@ -246,13 +300,19 @@ https://github.com/ManhaNet/portfolio
 
 **s.manha.mm@gmail.com**
 
+💼 LinkedIn
+
+**https://www.linkedin.com/in/momtazur-rashid-it-support**
+
 🌐 Portfolio
 
 **https://portfolio.s-manha-mm.workers.dev**
 
-💼 LinkedIn
+GitHub Portfolio
 
-**https://www.linkedin.com/in/momtazur-rashid-it-support**
+**https://github.com/ManhaNet**
+
+
 
 📍 Bangladesh
 
@@ -271,6 +331,7 @@ I'm always interested in connecting with recruiters, hiring managers, engineerin
 - Technical Support
 - Commissioning
 - Engineering Projects
+- Industrial Commissioning
 
 Feel free to connect through LinkedIn or visit my portfolio.
 
