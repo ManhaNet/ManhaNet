@@ -357,4 +357,4 @@ Feel free to connect through LinkedIn or visit my portfolio.
 
 > **"Reliable technology, efficient operations, and practical engineering drive sustainable business success."**
 
-⭐ Thanks for visiting my GitHub profile. If my work aligns with your hiring needs or technical interests, feel free to connect or reach out.
+⭐ Thanks for visiting my GitHub profile. If my work aligns with your hiring needs or technical interests, feel free to connect or reach out
